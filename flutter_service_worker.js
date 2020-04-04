@@ -31,9 +31,9 @@ const RESOURCES = {
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/icons\Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons\Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"/index.html": "2491b32a618f52b794c1d0e00b670d53",
-"/main.dart.js": "2a6a9d702421cdda6b92dd35587a7af2",
-"/manifest.json": "d8065073f9216fbeb38516cdbfe744f0"
+"/index.html": "c36b6f9b3e7d3aadc72155b704178ed2",
+"/main.dart.js": "e69621b566ef39dde65365b4d164e6e7",
+"/manifest.json": "23727faa9357c1c4eb9dc5cbd8cb6507"
 };
 
 self.addEventListener('activate', function (event) {
