@@ -26213,7 +26213,7 @@ A.hg.prototype={
 H:function(a){var t=null,s=N.kG(a),r=J.a6(this.d.a,"feedbackGiven")
 return r===!0?M.a7(t,t,t,t,t,0,t,t,0):this.Fs(s.b)},
 Fs:function(a){var t=null,s=u.p
-return M.a7(t,T.b5(H.c([V.bR(M.a7(t,T.b5(H.c([L.S("Erinnerung:",t,t,t,t,t,t,t,A.b9(t,t,t,t,t,t,t,t,t,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t),t,t,t),L.S("Es sind noch "+C.h.ci(P.ds(0,P.a0F(2020,6,6).a-Date.now()).a,864e8)+" Tage bis zur Hochzeit. Kommst du?",t,t,t,t,t,t,t,t,t,t,t)],s),C.w,C.A,C.x),t,t,t,t,t,t,a),t,t,t),D.kq(L.S("R\xfcckmeldung abgeben",t,t,t,t,t,t,t,t,t,t,t),new A.MC(this),t)],s),C.w,C.A,C.x),C.qn,t,t,t,new V.L(5,5,5,5),new V.L(5,5,5,5),a)}}
+return M.a7(t,T.b5(H.c([V.bR(M.a7(t,T.b5(H.c([L.S("Erinnerung:",t,t,t,t,t,t,t,A.b9(t,t,t,t,t,t,t,t,t,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t),t,t,t),L.S("Es sind noch "+C.h.ci(P.ds(0,P.a0F(2021,6,19).a-Date.now()).a,864e8)+" Tage bis zur Hochzeit. Kommst du?",t,t,t,t,t,t,t,t,t,t,t)],s),C.w,C.A,C.x),t,t,t,t,t,t,a),t,t,t),D.kq(L.S("R\xfcckmeldung abgeben",t,t,t,t,t,t,t,t,t,t,t),new A.MC(this),t)],s),C.w,C.A,C.x),C.qn,t,t,t,new V.L(5,5,5,5),new V.L(5,5,5,5),a)}}
 A.MC.prototype={
 $0:function(){return this.a.c.$1(C.nm)},
 $S:1}
@@ -26623,7 +26623,7 @@ return t.c}}
 Z.yO.prototype={
 H:function(a){var t=this,s=null,r=N.kG(a),q=new Q.q2(r.x*95,r.y*70,H.c([],u.we),H.c([],u.Ez),s)
 t.c=q
-q.tp("Franz-Hartmann-Stra\xdfe 9","info@pfalzakademie.bv-pfalz.de","Pfalzakademie",U.dO("img/pfalzakademieZimmer.jpg"),'Hier haben wir bis 05. Mai Zimmer reserviert. Kostenpunkt 74\u20ac pro Doppelzimmer inklusiveFr\xfchst\xfcck 52\u20ac Einzelzimmer. \nWenn ihr ein Zimmer m\xf6chtet mailt unter dem Stichwort "Hochzeit Heraucourt" eure Postanschrift und ggf. das Alter der mitreisendenKinder. Anreisezeiten sollen bitte vorher telefonisch unter 06325/18000 vereinbart werden.',"https://www.pfalzakademie.de/tagen-feiern-uebernachten/uebernachten/zimmer/")
+q.tp("Franz-Hartmann-Stra\xdfe 9","info@pfalzakademie.bv-pfalz.de","Pfalzakademie",U.dO("img/pfalzakademieZimmer.jpg"),'Hier haben wir bis 17. Mai Zimmer reserviert. Kostenpunkt 74\u20ac pro Doppelzimmer inklusiveFr\xfchst\xfcck 52\u20ac Einzelzimmer. \nWenn ihr ein Zimmer m\xf6chtet mailt unter dem Stichwort "Hochzeit Heraucourt" eure Postanschrift und ggf. das Alter der mitreisendenKinder. Anreisezeiten sollen bitte vorher telefonisch unter 06325/18000 vereinbart werden.',"https://www.pfalzakademie.de/tagen-feiern-uebernachten/uebernachten/zimmer/")
 q=t.c
 q.f.push(new K.zN(q.e.length,L.S("\n Weitere \xdcbernachtungsm\xf6glichkeiten die wir aber nicht vorreserviert haben:",s,s,s,s,s,s,s,s,s,s,s)))
 t.c.C4("Walkstr. 1","Ferienwohnung Ohler",U.dO("img/ohler/Aussenansicht.jpg"),"Mindestens drei N\xe4chte Aufenthalt.","https://www.ferienwohnung-ohler.de/")
