@@ -26235,7 +26235,7 @@ N.Bh.prototype={
 pL:function(a,b){return this.Ft(a,b)},
 Ft:function(a,b){var t=0,s=P.a_(u.z),r
 var $async$pL=P.W(function(c,d){if(c===1)return P.X(d,s)
-while(true)switch(t){case 0:r=G.abQ("http://mycroftpi.duckdns.org:8081?vorname="+H.b(a)+"&nachname="+H.b(b)).bC(new N.Pv(),u.z)
+while(true)switch(t){case 0:r=G.abQ("https://mycroftpi.duckdns.org:8081?vorname="+H.b(a)+"&nachname="+H.b(b)).bC(new N.Pv(),u.z)
 t=1
 break
 case 1:return P.Y(r,s)}})
@@ -26244,7 +26244,7 @@ q6:function(a){return this.G_(a)},
 G_:function(a){var t=0,s=P.a_(u.z),r
 var $async$q6=P.W(function(b,c){if(b===1)return P.X(c,s)
 while(true)switch(t){case 0:P.av("[START SET HAS APP]")
-r=G.acj("http://mycroftpi.duckdns.org:8081?id="+H.b(a.a)).bC(new N.Pw(),u.z)
+r=G.acj("https://mycroftpi.duckdns.org:8081?id="+H.b(a.a)).bC(new N.Pw(),u.z)
 t=1
 break
 case 1:return P.Y(r,s)}})
@@ -26288,9 +26288,9 @@ var $async$nY=P.W(function(c,d){if(c===1)return P.X(d,s)
 while(true)switch(t){case 0:P.av("[SEND WILL COME START]")
 q=b?"1":"0"
 P.av("[DB WILL COME] setting for id "+H.b(a)+", willCome = "+q+" ...")
-P.av("request: http://mycroftpi.duckdns.org:8081?id="+H.b(a)+"&willCome="+q)
+P.av("request: https://mycroftpi.duckdns.org:8081?id="+H.b(a)+"&willCome="+q)
 t=3
-return P.ab(G.acm("http://mycroftpi.duckdns.org:8081?id="+H.b(a)+"&willCome="+q),$async$nY)
+return P.ab(G.acm("https://mycroftpi.duckdns.org:8081?id="+H.b(a)+"&willCome="+q),$async$nY)
 case 3:p=d
 P.av("[RESULT BEFORE RETURN] "+H.b(p))
 r=p
