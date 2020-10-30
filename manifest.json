@@ -1,6 +1,6 @@
 {
-    "name": "androidxhap",
-    "short_name": "androidxhap",
+    "name": "webAppWedding",
+    "short_name": "webAppWedding",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
