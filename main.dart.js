@@ -31322,7 +31322,7 @@ N.Dd.prototype={
 tC:function(a,b){return this.K_(a,b)},
 K_:function(a,b){var s=0,r=P.a2(t.z),q
 var $async$tC=P.Z(function(c,d){if(c===1)return P.a_(d,r)
-while(true)switch(s){case 0:q=G.amZ("https://mycroftpi.duckdns.org:8081?vorname="+H.b(a)+"&nachname="+H.b(b)).bx(0,new N.Uy(),t.z)
+while(true)switch(s){case 0:q=G.amZ("https://mycroftpi.duckdns.org:80?vorname="+H.b(a)+"&nachname="+H.b(b)).bx(0,new N.Uy(),t.z)
 s=1
 break
 case 1:return P.a0(q,r)}})
@@ -31331,7 +31331,7 @@ tX:function(a){return this.KA(a)},
 KA:function(a){var s=0,r=P.a2(t.z),q
 var $async$tX=P.Z(function(b,c){if(b===1)return P.a_(c,r)
 while(true)switch(s){case 0:P.aH("[START SET HAS APP]")
-q=G.anw("https://mycroftpi.duckdns.org:8081?id="+H.b(a.a)).bx(0,new N.Uz(),t.z)
+q=G.anw("https://mycroftpi.duckdns.org:80?id="+H.b(a.a)).bx(0,new N.Uz(),t.z)
 s=1
 break
 case 1:return P.a0(q,r)}})
@@ -31376,9 +31376,9 @@ var $async$ql=P.Z(function(c,d){if(c===1)return P.a_(d,r)
 while(true)switch(s){case 0:P.aH("[SEND WILL COME START]")
 p=b?"1":"0"
 P.aH("[DB WILL COME] setting for id "+H.b(a)+", willCome = "+p+" ...")
-P.aH("request: https://mycroftpi.duckdns.org:8081?id="+H.b(a)+"&willCome="+p)
+P.aH("request: https://mycroftpi.duckdns.org:80?id="+H.b(a)+"&willCome="+p)
 s=3
-return P.ag(G.anz("https://mycroftpi.duckdns.org:8081?id="+H.b(a)+"&willCome="+p),$async$ql)
+return P.ag(G.anz("https://mycroftpi.duckdns.org:80?id="+H.b(a)+"&willCome="+p),$async$ql)
 case 3:o=d
 P.aH("[RESULT BEFORE RETURN] "+H.b(o))
 q=o
