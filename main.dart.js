@@ -37979,7 +37979,7 @@ p.jp(b)
 s=p.x
 s=Q.aj8(p.y*70,s*95)
 r.c=s
-s.zT("Franz-Hartmann-Stra\xdfe 9","info@pfalzakademie.bv-pfalz.de","Pfalzakademie",U.eQ("img/pfalzakademieZimmer.jpg"),'Hier haben wir bis 20. Mai Zimmer reserviert. Kostenpunkt 74\u20ac pro Doppelzimmer inklusiveFr\xfchst\xfcck 52\u20ac Einzelzimmer. \nWenn ihr ein Zimmer m\xf6chtet mailt unter dem Stichwort "Hochzeit Heraucourt" eure Postanschrift und ggf. das Alter derKinder. Anreisezeiten sollen bitte vorher telefonisch unter 06325/18000 vereinbart werden.Anmerkung: Es finden im kompletten Jahr 2022 Umbauma\xdfnahmen statt. Der Betrieb soll aber erhalten bleiben.',"https://www.pfalzakademie.de/tagen-feiern-uebernachten/uebernachten/zimmer/")
+s.zT("Franz-Hartmann-Stra\xdfe 9","info@pfalzakademie.bv-pfalz.de","Pfalzakademie",U.eQ("img/pfalzakademieZimmer.jpg"),'Hier haben wir bis 20. Mai Zimmer reserviert. Kostenpunkt 74\u20ac pro Doppelzimmer inklusiveFr\xfchst\xfcck 52\u20ac Einzelzimmer. \nWenn ihr ein Zimmer m\xf6chtet mailt unter dem Stichwort "Hochzeit Heraucourt" eure Postanschrift und ggf. das Alter der Kinder. Anreisezeiten sollen bitte vorher telefonisch unter 06325/18000 vereinbart werden.Anmerkung: Es finden im kompletten Jahr 2022 Umbauma\xdfnahmen statt. Der Betrieb soll aber erhalten bleiben.',"https://www.pfalzakademie.de/tagen-feiern-uebernachten/uebernachten/zimmer/")
 s=r.c
 s.f.push(new K.pf(s.e.length,L.ad("\n Weitere \xdcbernachtungsm\xf6glichkeiten die wir aber nicht vorreserviert haben:",q,q,q,q,q,q,q,q,q,q,q)))
 r.c.Kj("Walkstr. 1","Ferienwohnung Ohler",U.eQ("img/ohler/Aussenansicht.jpg"),"Mindestens drei N\xe4chte Aufenthalt.","https://www.ferienwohnung-ohler.de/")
